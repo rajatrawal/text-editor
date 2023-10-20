@@ -22,7 +22,7 @@ Welcome to the Text Editor project! This application is designed to simplify tex
 
 ### For Users
 
-- Download the github repo and unzip file   
+- Download the latest release from the [Releases](https://github.com/rajatrawal/text-editor/releases) page.
 - Run the Text Editor.msi file on your Windows system. No additional dependencies are required.
 
 ### For Developers
